@@ -1,0 +1,341 @@
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.csprojResolveAssemblyReference.cache
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\FinancialScreen.baml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\MainScreen.baml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\MainWindow.baml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PlayerScreen.baml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\ScheduleScreen.baml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\StatisticsScreen.baml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentScreen.baml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\FinancialScreen.g.cs
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\MainScreen.g.cs
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PlayerScreen.g.cs
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\ScheduleScreen.g.cs
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\StatisticsScreen.g.cs
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentScreen.g.cs
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\App.g.cs
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012_MarkupCompile.cache
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.g.resources
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.Properties.Resources.resources
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.csproj.GenerateResource.Cache
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Brackets2012.exe.config
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Brackets2012.exe
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Brackets2012.pdb
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\ribboncontrolslibrary.dll
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Chart.dll
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Charting.dll
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.DataServices.dll
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\telerik.windows.controls.ribbonview.dll
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\ribboncontrolslibrary.pdb
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\ribboncontrolslibrary.xml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Chart.pdb
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Chart.xml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Charting.pdb
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Charting.xml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Data.pdb
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.DataServices.pdb
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.DataServices.xml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\telerik.windows.controls.ribbonview.pdb
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\telerik.windows.controls.ribbonview.xml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentControls\BettingControl.baml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentControls\CreateTournamentControl.baml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentControls\DefineRulesControl.baml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentControls\PrizeFundControl.baml
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentControls\BettingControl.g.cs
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentControls\CreateTournamentControl.g.cs
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentControls\DefineRulesControl.g.cs
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentControls\PrizeFundControl.g.cs
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.exe
+C:\Users\Eric Carestia\Documents\Visual Studio 11\Projects\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.pdb
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\MetroButton.baml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\MetroButton.g.cs
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\App.g.cs
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012_MarkupCompile.cache
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012_MarkupCompile.lref
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Brackets2012.exe.config
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Brackets2012.exe.manifest
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Brackets2012.application
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Brackets2012.exe
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Brackets2012.pdb
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.DataServices.dll
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.EntityFramework.dll
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.RibbonView.dll
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.ScheduleView.dll
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Data.pdb
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.DataServices.pdb
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.DataServices.xml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.EntityFramework.pdb
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.EntityFramework.xml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.RibbonView.pdb
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.ScheduleView.pdb
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.ScheduleView.xml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\MainWindow.baml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.g.resources
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.Properties.Resources.resources
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.csproj.GenerateResource.Cache
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.exe.manifest
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.application
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.exe
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.pdb
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.csprojResolveAssemblyReference.cache
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Brackets2012.exe.config
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Brackets2012.exe.manifest
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Brackets2012.application
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Brackets2012.exe
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Brackets2012.pdb
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\FinancialScreen.baml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\MetroButton.baml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PlayerScreen.baml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\ScheduleScreen.baml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\StatisticsScreen.baml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\BettingControl.baml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\CreateTournamentControl.baml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentScreen.baml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\BracketScreen.g.cs
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\FinancialScreen.g.cs
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\MetroButton.g.cs
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PlayerScreen.g.cs
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\ScheduleScreen.g.cs
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\StatisticsScreen.g.cs
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\BettingControl.g.cs
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\CreateTournamentControl.g.cs
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PrizeFundControl.g.cs
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentScreen.g.cs
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\App.g.cs
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012_MarkupCompile.cache
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012_MarkupCompile.lref
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\BracketScreen.baml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\MainWindow.baml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PrizeFundControl.baml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.g.resources
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.Properties.Resources.resources
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.csproj.GenerateResource.Cache
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.exe.manifest
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.application
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.exe
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.pdb
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.csprojResolveAssemblyReference.cache
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\FinancialScreen.baml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PlayerScreen.baml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\ScheduleScreen.baml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\StatisticsScreen.baml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\BettingControl.baml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\CreateTournamentControl.baml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentScreen.baml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\BracketScreen.g.cs
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\FinancialScreen.g.cs
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PlayerScreen.g.cs
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\ScheduleScreen.g.cs
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\StatisticsScreen.g.cs
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\BettingControl.g.cs
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\CreateTournamentControl.g.cs
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PrizeFundControl.g.cs
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentScreen.g.cs
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\BracketScreen.baml
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PrizeFundControl.baml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\C5.dll
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Data.pdb
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.DataServices.pdb
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.DataServices.xml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.EntityFramework.pdb
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.EntityFramework.xml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.RibbonView.pdb
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.ScheduleView.pdb
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.ScheduleView.xml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric Carestia\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\C5.dll
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Brackets2012.exe.config
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.exe
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.pdb
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\FinancialScreen.baml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\MetroButton.baml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PlayerScreen.baml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\ScheduleScreen.baml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\StatisticsScreen.baml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\BettingControl.baml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\CreateTournamentControl.baml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentScreen.baml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\BracketScreen.g.cs
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\FinancialScreen.g.cs
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\MetroButton.g.cs
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PlayerScreen.g.cs
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\ScheduleScreen.g.cs
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\StatisticsScreen.g.cs
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\BettingControl.g.cs
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\CreateTournamentControl.g.cs
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PrizeFundControl.g.cs
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentScreen.g.cs
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\App.g.cs
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012_MarkupCompile.cache
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012_MarkupCompile.lref
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Brackets2012.exe.manifest
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Brackets2012.application
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Brackets2012.exe
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Brackets2012.pdb
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\C5.dll
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Data.pdb
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.DataServices.pdb
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.DataServices.xml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.EntityFramework.pdb
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.EntityFramework.xml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.RibbonView.pdb
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.ScheduleView.pdb
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.ScheduleView.xml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\BracketScreen.baml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\MainWindow.baml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PrizeFundControl.baml
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.g.resources
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.Properties.Resources.resources
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.csproj.GenerateResource.Cache
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.exe.manifest
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.application
+C:\Users\Eric\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Carol\Dropbox\Brackets (1)\Brackets2012\Brackets2012\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Brackets2012.exe.config
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.exe
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.pdb
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Brackets2012.exe.manifest
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Brackets2012.application
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Brackets2012.exe
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Brackets2012.pdb
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\C5.dll
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Data.pdb
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.DataServices.pdb
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.DataServices.xml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.EntityFramework.pdb
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.EntityFramework.xml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.RibbonView.pdb
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.ScheduleView.pdb
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Controls.ScheduleView.xml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.csprojResolveAssemblyReference.cache
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\FinancialScreen.baml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\MetroButton.baml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PlayerScreen.baml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\ScheduleScreen.baml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\StatisticsScreen.baml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\BettingControl.baml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\CreateTournamentControl.baml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentScreen.baml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\BracketScreen.g.cs
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\FinancialScreen.g.cs
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\MetroButton.g.cs
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PlayerScreen.g.cs
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\ScheduleScreen.g.cs
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\StatisticsScreen.g.cs
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\BettingControl.g.cs
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\CreateTournamentControl.g.cs
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PrizeFundControl.g.cs
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\TournamentScreen.g.cs
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\App.g.cs
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012_MarkupCompile.cache
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012_MarkupCompile.lref
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\BracketScreen.baml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\MainWindow.baml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Screens\PrizeFundControl.baml
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.g.resources
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.Properties.Resources.resources
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.csproj.GenerateResource.Cache
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.exe.manifest
+C:\Users\Carol\Dropbox\Brackets\Brackets2012\Brackets2012\obj\x86\Debug\Brackets2012.application
