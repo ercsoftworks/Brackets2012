@@ -1,0 +1,42 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+    xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" x:Class="Brackets2012.FinancialScreen" 
+    mc:Ignorable="d" 
+             d:DesignHeight="581" d:DesignWidth="909">
+    <Grid Name="ContentGrid" Height ="Auto" Width ="909" VerticalAlignment="Top">
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+
+        <telerik:RadRibbonView ClipToBounds="True"  telerik:StyleManager.Theme="Metro"  ApplicationName="Brackets 2012 &gt; Tournaments" Width="909" QuickAccessToolBarPosition="NotHosted" IsMinimized="False" FontSize="12" FontWeight="Bold">
+            <telerik:RadRibbonView.Backstage>
+                <telerik:RadRibbonBackstage/>
+            </telerik:RadRibbonView.Backstage>
+     
+            <telerik:RadRibbonTab Header="Manage Finances">
+                <telerik:RadRibbonGroup Header="Modify" Height="89" Margin="0,0,0,0" Width="170" VerticalAlignment="Top" HorizontalAlignment="Left">
+                    <telerik:RadRibbonButton Size="Large" Text="Edit / Update Payouts"  Width="97" HorizontalAlignment="Left" IsDefault="True" Margin="-14,0,-19,-10" LargeImage="/Images/payout.png" 
+                                              Grid.IsSharedSizeScope="True"/>
+                </telerik:RadRibbonGroup>
+                <telerik:RadRibbonGroup Header="Financial Summary" Width="170" Margin="0,0,0,0" BorderBrush="Black" >
+                    <telerik:RadRibbonButton Size="Large" Text="View Summary"  HorizontalAlignment="Center" Width="64" Height="79" ClipToBounds="True" UseLayoutRounding="False" 
+                                              VerticalContentAlignment="Center" VerticalAlignment="Center" LargeImage="/Images/financial summary.png" Margin="0,0,0,-10"/>
+             
+                </telerik:RadRibbonGroup>
+                <telerik:RadRibbonGroup Header="View Payouts" Width="309">
+                    <telerik:RadRibbonButton x:Name="IndividualPayoutButton" Size="Large" Text="Individual Payouts"  Margin="-75,2,10,-8" Width="71" HorizontalAlignment="Right" LargeImage="/Images/Personal Finance.gif" />
+                    <telerik:RadRibbonButton x:Name="SquadPayoutButton" Size="Large" Text="Squad Payouts"  Margin="16,0,-68,-10" Width="58" LargeImage="/Images/database.png"/>
+                    <telerik:RadRibbonButton x:Name="TournamentPayoutButton" Size="Large" Text="Tournament Payouts"  Margin="84,0,-57,-10" Width="74" LargeImage="/Images/dollar_sign.png"/>
+
+                </telerik:RadRibbonGroup>
+
+
+            </telerik:RadRibbonTab>
+        </telerik:RadRibbonView>
+        <Grid x:Name="tournamentGrid" HorizontalAlignment="Left" Height="438" Margin="0,143,0,0" VerticalAlignment="Top" Width="909" Background="#FFC5C5C5"/>
+
+    </Grid>
+</UserControl>

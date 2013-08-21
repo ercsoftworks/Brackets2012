@@ -1,0 +1,58 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+    xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" x:Class="Brackets2012.TournamentScreen" 
+    mc:Ignorable="d" 
+             d:DesignHeight="581" d:DesignWidth="909">
+    <Grid Name="ContentGrid" Height ="Auto" Width ="909" VerticalAlignment="Top">
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+
+        <telerik:RadRibbonView ClipToBounds="True"  ApplicationName="Brackets 2012 &gt; Tournaments" Width="909" IsMinimized="False" FontSize="12" FontWeight="Bold" SelectionChanged="RadRibbonView_SelectionChanged_1">
+            <telerik:RadRibbonView.Background>
+                <SolidColorBrush Color="#FF12ACF5" telerik:MetroColors.Color="BoundColor"/>
+            </telerik:RadRibbonView.Background>
+            <telerik:RadRibbonView.Effect>
+                <DropShadowEffect/>
+            </telerik:RadRibbonView.Effect>
+            <telerik:RadRibbonView.Backstage>
+                <telerik:RadRibbonBackstage/>
+            </telerik:RadRibbonView.Backstage>
+            <telerik:RadRibbonView.QuickAccessToolBar>
+                <telerik:QuickAccessToolBar/>
+            </telerik:RadRibbonView.QuickAccessToolBar>
+            <telerik:StyleManager.Theme>
+                <telerik:MetroTheme/>
+            </telerik:StyleManager.Theme>
+            <telerik:RadRibbonTab Header="Tournament">
+                <telerik:RadRibbonGroup Header="Tournaments" Height="89" Margin="0,0,0,0" Width="200" VerticalAlignment="Top" HorizontalAlignment="Left">
+                    <telerik:RadRibbonButton Text="New Tournament"  Size="Large" Width="77" HorizontalAlignment="Center" IsDefault="True" Margin="0,0,0,0" LargeImage="/Images/MB_0010_tasks.png" Click="RadRibbonButton_Click_3" Grid.IsSharedSizeScope="True"/>
+<telerik:RadRibbonButton Size="Large" Text="Details"  HorizontalAlignment="Center" Width="45" Height="69" ClipToBounds="True" UseLayoutRounding="False" VerticalContentAlignment="Center" VerticalAlignment="Center"  LargeImage="/Images/MB_0007_book.png" Margin="15,0,8,0"/>
+
+                </telerik:RadRibbonGroup>
+                <telerik:RadRibbonGroup Header="Manage Players" Width="185" Margin="0,0,0,0" BorderBrush="Black" >
+                    <telerik:RadRibbonButton Text="Add" Size="Large" LargeImage="/Images/user_add.png" Margin="-31,0,0,0"/>
+                    <telerik:RadRibbonButton Text="Remove" Size="Large" LargeImage="/Images/user-delete.png" Margin="16,0,-16,0" />
+                    <telerik:RadRibbonButton Text="View" Size="Large" LargeImage="/Images/viewer.gif" Margin="26,0,-26,0" />
+                </telerik:RadRibbonGroup>
+                <telerik:RadRibbonGroup Header="3. Prize Fund Setup" Width="179">
+                    <telerik:RadRibbonButton Size="Large" Text="New"  HorizontalAlignment="Center"  Width="38" Click="RadRibbonButton_Click_4" LargeImage="/Images/dollar_sign.png" Margin="-14,0,40,0"/>
+                    <telerik:RadRibbonButton Size="Large" Text="Modify" Margin="-12,0,-24,0" LargeImage="/Images/MB_0002_Visitors.png" Height="69" VerticalAlignment="Top"/>
+                </telerik:RadRibbonGroup>
+                <telerik:RadRibbonGroup Header="4. Create Betting" Width="149">
+                    <telerik:RadRibbonButton HorizontalAlignment="Center" Size="Large" Text="Side Pots, Doubles, etc."  Name="BetButton"   Width="84" Click="RadRibbonButton_Click_2" Margin="10,0,2,0" LargeImage="/Images/roulette_bets.png"/>
+                </telerik:RadRibbonGroup>
+                <telerik:RadRibbonGroup Header ="5. Brackets" Width="103" Margin="0,1,0,-1">
+                    <telerik:RadRibbonButton Content="Generate!" Click="RadRibbonButton_Click_5"/>
+                </telerik:RadRibbonGroup>
+
+
+            </telerik:RadRibbonTab>
+        </telerik:RadRibbonView>
+        <Grid x:Name="tournamentGrid" HorizontalAlignment="Left" Height="445" Margin="0,143,0,-7" VerticalAlignment="Top" Width="909" Background="#FFC5C5C5"/>
+
+    </Grid>
+</UserControl>

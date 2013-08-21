@@ -1,0 +1,25 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Brackets2012" x:Class="Brackets2012.PrizeFundControl" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid Width="909" HorizontalAlignment="Left" Margin="0,0,-623,-209" Height="486" VerticalAlignment="Top">
+
+        <Label Content="Prize Fund Setup" HorizontalAlignment="Left" Margin="0,430,0,0" Width="283" FontSize="36" Opacity="0.3">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+        </Label>
+
+
+
+        <local:MetroButton HorizontalAlignment="Left" Margin="684,382,0,0" VerticalAlignment="Top" Background="#FF4DE83E" Foreground="White" Text="Save and Continue" Image="/Images/MB_0008_save.png" Height="94" Width="215"/>
+
+
+
+    </Grid>
+
+</UserControl>

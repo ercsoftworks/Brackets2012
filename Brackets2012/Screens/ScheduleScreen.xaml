@@ -1,0 +1,48 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" x:Class="Brackets2012.ScheduleScreen" 
+             mc:Ignorable="d" Height="574" Width="909">
+    <Grid Background="#FFC5C5C5" Height="646" VerticalAlignment="Top" Margin="0,-40,0,-32">
+        <Label Content="Schedules &amp; Events" HorizontalAlignment="Left" Margin="0,574,0,0" VerticalAlignment="Top" Width="326" Height="56" FontSize="36" Opacity="0.3"/>
+
+            
+        <telerik:RadScheduleView x:Name="scheduleView" AppointmentsSource="{Binding Appointments}" telerik:StyleManager.Theme="Metro" Width="909"  FirstDayOfWeek="Sunday" Margin="0,148,0,89">
+            <telerik:RadScheduleView.ViewDefinitions>
+                <telerik:DayViewDefinition/>
+                <telerik:WeekViewDefinition/>
+                <telerik:MonthViewDefinition/>
+                <telerik:TimelineViewDefinition/>
+            </telerik:RadScheduleView.ViewDefinitions>
+        </telerik:RadScheduleView>
+        
+        <Button Content="Save Appointments" HorizontalAlignment="Left" Margin="730,574,0,0" VerticalAlignment="Top" Width="169" Height="36"/>
+       
+        <telerik:RadRibbonView VerticalAlignment="Top" telerik:StyleManager.Theme="Metro" ApplicationName="Brackets 2012 > Schedules &amp; Events" IsBackstageOpen="True" SelectionChanged="RadRibbonView_SelectionChanged_1" RenderTransformOrigin="0.568,0.454" Height="148" >
+            <telerik:RadRibbonTab Header="RibbonTab">
+                <telerik:RadRibbonGroup Header="Events&#xD;&#xA;" Width="196" DialogLauncherVisibility="Visible">
+                    <telerik:RadRibbonButton  Size="Large" HorizontalAlignment="Center" Width="41" LargeImage="/Images/ScheduleImages/new_appointment.png" Text="New Event" CommandTarget="{Binding ElementName=scheduleView}"  Height="69" VerticalAlignment="Bottom" Margin="-10,0,24,0" Click="RadRibbonButton_Click_2">
+                        <telerik:RadRibbonButton.Background>
+                            <ImageBrush Stretch="Uniform"/>
+                        </telerik:RadRibbonButton.Background>
+                    </telerik:RadRibbonButton>
+                    <telerik:RadRibbonButton Text="Delete Event" Size="Large"  Click="RadRibbonButton_Click_1" LargeImage="/Images/ScheduleImages/delete_appointment.png" SmallImage="/Images/Calender.png" Margin="15,0,-15,0"/>
+                </telerik:RadRibbonGroup>
+                <telerik:RadRibbonGroup Header="Go To" Width="153">
+                    <telerik:RadRibbonButton Text="Today" Size="Large" LargeImage="/Images/ScheduleImages/today.png" Margin="-32,0,0,0"/>
+                    <telerik:RadRibbonButton Text="Next Range" Size="Large" Margin="30,0,-30,0" Background="Transparent" LargeImage="/Images/ScheduleImages/next7days.png" />
+                </telerik:RadRibbonGroup>
+                <telerik:RadRibbonGroup Width="270">
+                    <telerik:RadRibbonButton Size="Large" Text="Day View"  LargeImage="/Images/ScheduleImages/day_view.png" Margin="-31,0,0,0"/>
+                    <telerik:RadRibbonButton Size="Large" Text="Week View"  LargeImage="/Images/ScheduleImages/week_view.png" Margin="7,0,-7,0"/>
+                    <telerik:RadRibbonButton Size="Large" Text= "Work Week" LargeImage="/Images/ScheduleImages/work_week.png" RenderTransformOrigin="0.807,0.498" Margin="16,0,-16,0"/>
+                    <telerik:RadRibbonButton Size="Large" Text="Month View" LargeImage="/Images/ScheduleImages/month_view.png" Margin="25,0,-25,0"/>
+                    <telerik:RadRibbonButton Size="Large" Text="TimeLine View" LargeImage="/Images/ScheduleImages/timeline_view.png" Margin="30,0,-30,0"/>
+                </telerik:RadRibbonGroup>
+            </telerik:RadRibbonTab>
+        </telerik:RadRibbonView>
+
+    </Grid>
+</UserControl>
